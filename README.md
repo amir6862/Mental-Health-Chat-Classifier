@@ -136,22 +136,7 @@ The app will open in your browser at `http://localhost:8501`
 - **Visualization**: Plotly for interactive charts
 - **Deployment**: Ready for Streamlit Cloud deployment
 
-## 📱 Screenshots
 
-### Main Interface
-![Main Interface](screenshots/main_interface.png)
-
-### Prediction Results
-![Prediction Results](screenshots/prediction_results.png)
-
-### Batch Analysis
-![Batch Analysis](screenshots/batch_analysis.png)
-
-## 🌐 Live Demo
-
-🔗 **[Try the Live Demo](https://your-app-name.streamlit.app)**
-
-*Note: Replace with actual deployment URL*
 
 ## 🧪 Usage Examples
 
